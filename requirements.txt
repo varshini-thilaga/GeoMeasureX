@@ -1,0 +1,13 @@
+fastapi[standard]
+pydantic-settings
+geopandas
+shapely
+pyproj
+fiona
+sqlalchemy
+python-multipart
+defusedxml
+pytest
+httpx
+pytest-cov
+ruff
